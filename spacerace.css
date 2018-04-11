@@ -1,0 +1,38 @@
+
+
+#background {
+  background-image: url("https://i.imgur.com/HQaewXl.jpg");
+  width: 1200px;
+  height: 800px;
+  background-repeat: repeat;
+  position: absolute;
+
+}
+
+#falconX{
+    background-image: url("photos1/flipped.png");
+    height: 125px;
+    width: 125px;
+    top: 100px;
+    position: relative;
+}
+
+
+#enemy{
+    background-image: url("photos1/enemy.png");
+    height: 125px;
+    width: 125px;
+    top: 200px;
+
+    position: relative;
+}
+
+#asteroid {
+    background-image: url("http://defcom1.net/xnalessons/asteroid.png");
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: -5px;
+    left: 400px;
+
+
